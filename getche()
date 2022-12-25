@@ -1,0 +1,13 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+  char a,b;
+  clrscr();
+   printf("\nEnter first character  ");
+   a=getche();
+   printf("\nSecond character  ");
+   b=getche();
+   printf("\n\nFirst Character==> %c\nSecond Character==>%c",a,b);
+getch();
+}
