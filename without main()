@@ -5,5 +5,5 @@
  { 
  clrscr();
     printf(" Hello Developers ");
-geytch();
+getch();
 }
